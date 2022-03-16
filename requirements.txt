@@ -1,0 +1,10 @@
+py-cord==2.0.0b1
+BeautifulSoup4
+lavalink
+psutil
+requests
+lxml
+PyNaCl
+chardet
+aiohttp
+billboard.py
